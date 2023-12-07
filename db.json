@@ -1,7 +1,390 @@
 {
   "Products": [
-    
-  ],
+  {
+    "name": "Hoodie JOY BOY ",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.89",
+    "stock": "7",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/F1t6mCnF/DESING5-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/3rDYMskT/DESING5-FACE.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 7,
+    "couleur": "Noir,Blanc",
+    "id": 4
+  },
+  {
+    "name": "Hoodie Dragonball",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "10",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/MZ0K4kcF/Design7-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/cHByDSD7/Design7-FACE.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 10,
+    "couleur": "Noir",
+    "id": 5
+  },
+  {
+    "name": "Hoodie HISOKA",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "9",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/hvC91XTk/Design8-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/nhfLwH2g/Design8-FACE.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 9,
+    "couleur": "Noir , Blanc ",
+    "id": 7
+  },
+  {
+    "name": "Hoodie Water Law",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "10",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/gkY28YzK/Dsign8-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/7hPrGZ3G/Dsign8-FACE.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 10,
+    "couleur": "Noir , Blanc ",
+    "id": 9
+  },
+  {
+    "name": "Hoodie Japanese ",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "11",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/XvmFqM4b/BACK-KHITI.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/Gh8WTGFn/face3.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 11,
+    "couleur": "Noir , blanc",
+    "id": 10
+  },
+  {
+    "name": "Hoodie SUKUNA",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "15",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/3xX16F5h/Design1-BACK.jpg",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/XNtT6LhB/Design1-FACE.jpg"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 15,
+    "couleur": "Noir , Blanc ",
+    "id": 11
+  },
+  {
+    "name": "Hoodie Samurai",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "12",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/xdRy1pqj/back3.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/wjDn0z4W/face5.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 12,
+    "couleur": "Noir , blanc",
+    "id": 12
+  },
+  {
+    "name": "Hoodie Rengoku",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "14",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/0jtjr3wv/Design6-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/8cnkT62P/Design6-FACE.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 14,
+    "couleur": "Noir , Blanc ",
+    "id": 13
+  },
+  {
+    "name": "Hoodie Japanese ",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "17",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/4x8pC70n/back5.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/jdpGH2cw/face4.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 17,
+    "couleur": "Noir , blanc",
+    "id": 14
+  },
+  {
+    "name": "Hoodie SHANKS",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "14",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/TPDp3C0L/Design9-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/NMtffYLS/Design9-FACE.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 0,
+    "couleur": "Noir , Blanc ",
+    "id": 15
+  },
+  {
+    "name": "Hoodie SHINIGAMI",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "13",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/cC8Yy0zj/BACK-SHINIGAMI.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/zGDC3ZHL/face2.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 0,
+    "couleur": "Noir , blanc",
+    "id": 16
+  },
+  {
+    "name": "Hoodie SHINIGAMI",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "13",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/43Jz7CK7/BACK-devil.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/pLkBBXMY/face1.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 0,
+    "couleur": "Noir , blanc",
+    "id": 17
+  },
+  {
+    "name": "Hoodie Luffy",
+    "cat": "anime",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "16",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/8zrZTg2h/back3.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/kX2cydXk/face3-1.png"
+      ],
+      "desc": "Introducing our chic Anime Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 0,
+    "couleur": "Noir , blanc",
+    "id": 18
+  },
+  {
+    "name": "Hoodie Humanism",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "11",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/15zRtsrV/back4.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/yYr13tLQ/face4.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 0,
+    "couleur": "Noir , blanc",
+    "id": 19
+  },
+  {
+    "name": "Hoodie \"EXPERIENCE\"",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "18",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/YS2j1Y18/Design11-BACK.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/8CCPFDS0/Design11-FACE.png"
+      ],
+      "desc": "Introducing our chic StreetWear Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋️. Elevate your look with this must-have hoodie – where quality meets cool! 🚀"
+    },
+    "qt": 0,
+    "couleur": "Noir , Blanc ",
+    "id": 20
+  },
+  {
+    "name": "Hoodie Thinking",
+    "cat": "streetwear",
+    "date": "2023-12-06",
+    "price": "189.98",
+    "stock": "18",
+    "taille": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "https://i.postimg.cc/rmbg7ScN/back7.png",
+    "details": {
+      "image": [
+        "https://i.postimg.cc/BQfBDZvb/face7.png"
+      ],
+      "desc": "Introducing our chic Stretweare Hoodie, blending style and comfort effortlessly 🧥. Crafted with premium cotton, it's a cozy wardrobe essential for all seasons 🌞. Enjoy free shipping exclusively in Morocco 🇲🇦. Embrace the perfect mix of fashion and function, ideal for both streetwear and lounging at home 🛋. Elevate your look with this must-have hoodie – where quality meets cool! "
+    },
+    "qt": 0,
+    "couleur": "Noir , blanc",
+    "id": 21
+  }
+],
   "Users": [
     
   ]
